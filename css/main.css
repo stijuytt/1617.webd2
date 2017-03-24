@@ -29,7 +29,7 @@ body {background-color: rgb(220, 220, 225);
 }
 
 .banner2 { background-image: url("../img/weg.jpg");
-    background-size: 100% 300px;
+    background-size: 25% 25%
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -53,6 +53,10 @@ body {background-color: rgb(220, 220, 225);
     text-align: center;
     padding: 25px 0;
 }
+
+
+
+
 
 
 
