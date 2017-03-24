@@ -31,8 +31,7 @@
     border-bottom: 5px none #000000;
     border-right: 5px solid #FFF;
     border-top: 5px none #000000;
-    background-image: url("../img/weg.jpg");
-    background-size: 100% 300px;
+    
     }
 
 .grid_kolom-2 {
@@ -46,7 +45,7 @@
     
     border-top: 5px none #000000;
     
-    background-size: 100% 300px;
+    
     }
    
 
