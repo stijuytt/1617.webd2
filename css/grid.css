@@ -8,6 +8,7 @@
     
     
 }
+.grid_row::after { clear: both; content: ''; display: table;}
 
 .grid_kolom-4 {
     width: 75%;
@@ -16,8 +17,6 @@
     margin: 0;
     padding: 65px;
     border-left: 5px solid #FFF;
-    background-image: url("../img/achtergrond.jpg");
-    background-size: 100% 600px;
     }
 
 

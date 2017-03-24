@@ -1,40 +1,3 @@
-/* lettertype + kleur link + witte achtergrond navigatie +  */
-.navigation a {font-family: Courier New, Courier, monospace;
-color: #000000;
-text-decoration: none; 
-
-}
-
-.navigation { background: #FFF; 
-margin: 0; 
-position: fixed;
-width: 100%;
-}
-.navigation::after { content: '';
- display: table; 
- clear: both;
-}
-/* navigatiebalk instellingen + hover navigatiebalk*/
-.navigation_item { float: left;
-border: none;
-padding: 8px 30px;
-list-style-type: none;
-
-
-}
-
-
-
-.navigation_item:hover {background: rgb(130, 130, 130);
-
-}
-
-/* tekst in navigatiebalk veranderen met hover */
-.navigation a:hover {color: #FFF;}
-
-/* achtergrond navigatie voor als men op de pagina zit */
-
-.navigation_item:active {background: rgb(130, 130, 130);}
 
 
 /* instellingen logo */
@@ -54,6 +17,11 @@ body {background-color: rgb(220, 220, 225);
 
 }
 
+.banner {
+
+    background-image: url("../img/achtergrond.jpg");
+    background-size: 100% 600px;
+}
 
 
 
@@ -61,10 +29,10 @@ body {background-color: rgb(220, 220, 225);
 
 .zwartbalkje { 
     
-    background:#000000;
-    
+    background:#FFF;
+    color: #000000;
     text-align: left;
-    height: 100px;
+    padding: 25px 0;
 }
 
 
