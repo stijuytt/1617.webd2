@@ -1,11 +1,15 @@
 
 
-/* instellingen logo */
-.logo {width: 650px;
-height: 450px;
+/* instellingen logo linksboven */
+
+
+.logo {width: 30px;
+float: left;
+height: 30px;
 position: absolute;
-left: 50px;
-top: 120px;
+padding: 0;
+margin: 30;
+
 }
 
 
@@ -22,25 +26,16 @@ body {background-color: rgb(220, 220, 225);
 
     background-image: url("../img/achtergrond.jpg");
     background-size: 100% 600px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    
 }
 
 .banner2 { background-image: url("../img/weg.jpg");
-    background-size: 25% 25%
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;}
+    background-size: 100% 300px;
+}
 
  .banner3 { background-image: url("../img/foto.jpg");
     background-size: 100% 300px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;}
+ }
 
 
 
@@ -52,6 +47,18 @@ body {background-color: rgb(220, 220, 225);
     color: #000000;
     text-align: center;
     padding: 25px 0;
+}
+
+
+.test {background-color: #FFF;}
+
+
+.foto2 {width: 100%;
+margin:0;
+padding-top: 0;
+padding-right: 65px;
+padding-left: 65px;
+
 }
 
 
