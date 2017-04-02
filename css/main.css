@@ -24,7 +24,7 @@ body {background-color: rgb(220, 220, 225);
 
 .banner {
 
-    background-image: url("../img/achtergrond.jpg");
+    background-image: url("../img/zebra.jpg");
     background-size: 100% 600px;
     
 }
@@ -60,6 +60,16 @@ padding-right: 65px;
 padding-left: 65px;
 
 }
+
+/* intro tekst op startpagina*/
+
+.intro { color: #FFF;}
+
+
+
+
+/* witte balk op de startpagine*/
+
 
 
 

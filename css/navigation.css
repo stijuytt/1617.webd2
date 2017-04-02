@@ -24,6 +24,15 @@ list-style-type: none;
 
 }
 
+/* social media*/
+
+.navigation_rechts {float: right;
+list-style-type: none;}
+
+.icons { width: 29px;
+height: 29px;
+
+}
 
 
 .navigation_item:hover {background: rgb(130, 130, 130);
