@@ -1,0 +1,119 @@
+* {box-sizing: border-box;}
+.container-projects { 
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 40px;
+  
+    
+    
+}
+.grid_row::after { clear: both; content: ''; display: table;}
+
+.grid_projects1 {
+    width: 25%;
+    height: 300px;
+    float: left;
+    margin: 0;
+    padding: 65px;
+    border-left: 5px solid #FFF;
+    }
+
+
+
+.grid_projects2 {
+    
+    width: 25%;
+    height: 300px;
+    float: left;
+    margin: 0;
+    padding: 65px;
+    border-bottom: 5px none #000000;
+    border-right: 5px solid #FFF;
+    border-top: 5px none #000000;
+    
+    }
+
+.grid_projects3 {
+    
+    width: 25%;
+    height: 300px;
+    float: left;
+    margin: 0;
+    padding: 65px;
+    border-right: 5px solid #FFF;
+    
+    border-top: 5px none #000000;
+    
+    
+    }
+
+.grid_projects4 {
+    
+    width: 25%;
+    height: 300px;
+    float: left;
+    margin: 0;
+    padding: 65px;
+    border-right: 5px solid #FFF;
+    
+    border-top: 5px none #000000;
+    
+    
+    }
+   
+
+   
+
+
+@media only screen and (max-width: 500px) {
+    .grid_projects1,
+     .grid_projects2,
+      .grid_projects3 {
+          display: block;
+          float: none;
+          border: solid 50px;
+      }
+}
+
+.bannerp1 {
+    background-image: url("../imgprojects/aclypse.jpg");
+    background-size: 100%  100%;}
+
+.bannerp2 {background-image: url("../imgprojects/truth.jpg");
+    background-position: center;
+    background-size: 100%  30%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+
+.bannerp3 {
+    background-image: url("../imgprojects/mickey.png");
+    background-position: center;
+    background-size: 90%  85%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+   
+
+
+.bannerp4 {
+    background-image: url("../imgprojects/bredalive.png");
+    background-position: center;
+    background-size: 100%  70%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+
+.bannerp5 {
+    background-image: url("../imgprojects/rustig2.png");
+    background-position: 10px 50px;
+    background-size: 95%  70%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+
+.bannerp6 {
+    background-image: url("../img/logo.png");
+    background-position: 70px 50px;
+    background-size: 100%  75%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+
+   

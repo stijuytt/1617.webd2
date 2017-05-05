@@ -18,10 +18,13 @@ top: 0;
 /* navigatiebalk instellingen + hover navigatiebalk*/
 .navigation_item { float: left;
 border: none;
-padding: 8px 30px;
 list-style-type: none;
 
 
+}
+.navigation_item a { 
+    display: block;
+    padding: 8px 30px;
 }
 
 /* social media*/
