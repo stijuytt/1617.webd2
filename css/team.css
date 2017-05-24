@@ -1,0 +1,37 @@
+
+.container-projects {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+
+.person {
+    width: 33%;
+    height: 300px;
+    float: left;
+    margin: 0;
+    padding: 65px;
+    border-left: 5px solid #000;
+    
+    }
+    
+
+.tekst {width: 33%;
+    height: 300px;
+    float: left;
+    margin: 0;
+    
+    border-left: 5px solid #000;
+    margin-top: 20px;
+    background-color: #FFF;}
+
+.bannerp1 {background-image: url("../img/sieger.jpg");
+background-size: 100%  100%;}
+
+.bannerp3 {background-image: url("../img/lennert.jpg");
+background-size: 100%  100%;}
+
+.name {font-weight: bold;
+}
