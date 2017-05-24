@@ -15,6 +15,9 @@ margin: 30;
 
 /* achtergrond */
 body {background-color: rgb(220, 220, 225);
+background-image: url("../img/background3.png");
+background-size: 100%;
+background-attachment: fixed;
 
 
 
