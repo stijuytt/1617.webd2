@@ -1,0 +1,40 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    text-align: center;
+
+    
+    
+    
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+ 
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+/* insta */
+.fa-instagram {
+    background: #8a3ab9;
+    color: white;
+}
+
+.buttons {background-color: #FFF;
+}
+.container_button {text-align: center;

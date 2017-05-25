@@ -1,3 +1,5 @@
+/* grid css */
+
 
 .container-projects {
     width: 100%;
@@ -6,6 +8,7 @@
     margin-top: 40px;
 }
 
+/* cellen tabel */
 
 .person {
     width: 33%;
@@ -17,6 +20,7 @@
     
     }
     
+/* tekst team */ 
 
 .tekst {width: 33%;
     height: 300px;
@@ -25,13 +29,23 @@
     
     border-left: 5px solid #000;
     margin-top: 20px;
-    background-color: #FFF;}
+    background-color: #FFF;
+    padding-left: 10px;}
+
+.name {font-weight: bold;
+}
+
+.eigenschappen {margin: 5px;}
+
+/* foto's team */
 
 .bannerp1 {background-image: url("../img/sieger.jpg");
 background-size: 100%  100%;}
 
-.bannerp3 {background-image: url("../img/lennert.jpg");
-background-size: 100%  100%;}
+.bannerp3 {background-image: url("../img/arne.jpg");
+background-size: 120%  100%;}
 
 .name {font-weight: bold;
 }
+
+.eigenschappen {margin: 5px;}

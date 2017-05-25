@@ -69,7 +69,8 @@
 @media only screen and (max-width: 500px) {
     .grid_projects1,
      .grid_projects2,
-      .grid_projects3 {
+      .grid_projects3
+       .grid_projects4 {
           display: block;
           float: none;
           border: solid 50px;
@@ -125,9 +126,57 @@
 
 .bannerp8 {
     background-image: url("../imgprojects/logotenpiesdef.jpg");
-    background-position: 70px 60px;
+    background-position: center;
     background-size:60%  60%;
     background-repeat: no-repeat;
     background-color: #FFF;}
 
-   
+
+    
+    }
+
+
+.bannerp9 {
+    background-image: url("../imgprojects/logotenpiesdef.jpg");
+    background-position: center;
+    background-size:60%  60%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+
+
+    
+    }
+
+.bannerp10 {
+    background-image: url("../imgprojects/logotenpiesdef.jpg");
+    background-position: center;
+    background-size:60%  60%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+
+
+    
+    }
+
+.bannerp11 {
+    background-image: url("../imgprojects/logotenpiesdef.jpg");
+    background-position: center;
+    background-size:60%  60%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+
+
+    
+    }
+
+.bannerp12 {
+    background-image: url("../imgprojects/logotenpiesdef.jpg");
+    background-position: center;
+    background-size:60%  60%;
+    background-repeat: no-repeat;
+    background-color: #FFF;}
+
+
+    
+    }
+
