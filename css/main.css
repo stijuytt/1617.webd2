@@ -8,7 +8,7 @@
 
 /* achtergrond */
 body {background-color: rgb(220, 220, 225);
-background-image: url("../img/background3.png");
+background-image: url("../assets/background3.png");
 background-size: 100%;
 background-attachment: fixed;
 font-family: "Sinhala MN";
@@ -22,16 +22,16 @@ font-size: 40px;
 
 .banner {
 
-    background-image: url("../img/zebra.jpg");
-    background-size: 100% 600px;
+    background-image: url("../assets/insect.jpg");
+    background-size: 850px 750px;
     
 }
 
-.banner2 { background-image: url("../img/weg.jpg");
+.banner2 { background-image: url("../assets/NewYork.jpg");
     background-size: 100% 300px;
 }
 
- .banner3 { background-image: url("../img/foto.jpg");
+ .banner3 { background-image: url("../assets/foto3.jpg");
     background-size: 100% 300px;
  }
 
@@ -66,7 +66,13 @@ padding-left: 65px;
 
 /* intro tekst op startpagina*/
 
-.intro { color: #FFF;}
+.intro { color: #FFF;
+font-size: 20px;}
+
+a {color: blue;
+text-decoration: none;}
+
+a:hover {color: rgb(156,0,0)}
 
 
 
@@ -117,6 +123,8 @@ padding-left: 65px;
     color:white;
     background:#1ab7ea;
 }
+
+.welkom {font-size: 40px;}
 
 
 

@@ -39,10 +39,13 @@
 
 /* foto's team */
 
-.bannerp1 {background-image: url("../img/sieger.jpg");
+.bannerp1 {background-image: url("../assets/sieger.jpg");
 background-size: 100%  100%;}
 
-.bannerp3 {background-image: url("../img/arne.jpg");
+.bannerp2 {background-image: url("../assets/stijn.png");
+background-size: 100%  100%;}
+
+.bannerp3 {background-image: url("../assets/arne.jpg");
 background-size: 120%  100%;}
 
 .name {font-weight: bold;

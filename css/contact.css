@@ -1,2 +1,17 @@
-#googleMap {margin: 40px;
-width: 100%;}
+.witzijkant { 
+    background:#FFF;
+    color: #000000;
+    text-align: center;
+    height: 600px;
+    margin-left: 65px;
+    margin-right: 65px;
+    margin-top: 40px;
+ }
+
+ .mail {text-decoration: none;}
+
+.contacttekst {font-size: 20px;}
+
+.mail:hover {color: rgb(156,0,0);
+}
+

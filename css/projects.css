@@ -111,14 +111,14 @@
     background-color: #FFF;}
 
 .bannerp6 {
-    background-image: url("../img/logo.png");
+    background-image: url("../assets/logo.png");
     background-position: 70px 50px;
     background-size: 100%  75%;
     background-repeat: no-repeat;
     background-color: #FFF;}
 
 .bannerp7 {
-    background-image: url("../img/logobreda2.png");
+    background-image: url("../assets/logobreda2.png");
     background-position: 60px 20px;
     background-size:75%  75%;
     background-repeat: no-repeat;
@@ -136,15 +136,46 @@
     }
 
 
-.bannerp9 {
-    background-image: url("../imgprojects/logotenpiesdef.jpg");
-    background-position: center;
-    background-size:60%  60%;
-    background-repeat: no-repeat;
-    background-color: #FFF;}
 
 
     
+    }
+
+
+
+    
+
+
+
+
+.container2 { 
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 40px;
+   margin-left: 65px;}
+
+
+.rij3 {
+    
+    width: 25%;
+    height: 300px;
+    float: left;
+    margin: 0;
+    padding: 65px;
+    border-bottom: 5px none #000000;
+    border-right: 5px solid #FFF;
+    border-top: 5px none #000000;
+    
+    }
+
+.bannerp9 {
+    background-image: url("../imgprojects/rustig.png");
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-color: #FFF;
+
     }
 
 .bannerp10 {
@@ -159,7 +190,7 @@
     }
 
 .bannerp11 {
-    background-image: url("../imgprojects/logotenpiesdef.jpg");
+   background-image: url("../imgprojects/logotenpiesdef.jpg");
     background-position: center;
     background-size:60%  60%;
     background-repeat: no-repeat;
@@ -167,16 +198,16 @@
 
 
     
-    }
+    
 
 .bannerp12 {
     background-image: url("../imgprojects/logotenpiesdef.jpg");
     background-position: center;
     background-size:60%  60%;
     background-repeat: no-repeat;
-    background-color: #FFF;}
+    background-color: #FFF;
+  
 
 
     
     }
-

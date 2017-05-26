@@ -47,4 +47,5 @@ height: 29px;
 
 /* achtergrond navigatie voor als men op de pagina zit */
 
-.navigation_item a.activepage {background-color: rgb(130, 130, 130);}
+.navigation_item a.activepage {background-color: rgb(130, 130, 130);
+color:white;}
