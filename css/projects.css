@@ -133,13 +133,12 @@
 
 
     
-    }
 
 
 
 
     
-    }
+    
 
 
 
@@ -148,12 +147,7 @@
 
 
 
-.container2 { 
-    width: 100%;
-    max-width: 1140px;
-    margin: 0 auto;
-    margin-top: 40px;
-   margin-left: 65px;}
+
 
 
 .rij3 {
@@ -179,29 +173,18 @@
     }
 
 .bannerp10 {
-    background-image: url("../imgprojects/logotenpiesdef.jpg");
+    background-image: url("../imgprojects/porsch.png");
     background-position: center;
-    background-size:60%  60%;
+    background-size:80%  40%;
     background-repeat: no-repeat;
     background-color: #FFF;}
 
 
-    
-    }
 
-.bannerp11 {
-   background-image: url("../imgprojects/logotenpiesdef.jpg");
-    background-position: center;
-    background-size:60%  60%;
-    background-repeat: no-repeat;
-    background-color: #FFF;}
-
-
-    
     
 
 .bannerp12 {
-    background-image: url("../imgprojects/logotenpiesdef.jpg");
+    background-image: url("../assets/insect.jpg");
     background-position: center;
     background-size:60%  60%;
     background-repeat: no-repeat;
@@ -211,3 +194,18 @@
 
     
     }
+
+
+.bannerp13 {
+    background-image: url("../assets/chance.jpg");
+    background-position: center;
+    background-size:70%  35%;
+    background-repeat: no-repeat;
+    background-color: #FFF;
+  
+
+
+    
+    }
+
+    
