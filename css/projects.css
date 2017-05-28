@@ -78,17 +78,17 @@
 }
 
 .bannerp1 {
-    background-image: url("../imgprojects/aclypse.jpg");
+    background-image: url("../assets/aclypse.jpg");
     background-size: 100%  100%;}
 
-.bannerp2 {background-image: url("../imgprojects/truth.jpg");
+.bannerp2 {background-image: url("../assets/truth.jpg");
     background-position: center;
     background-size: 100%  30%;
     background-repeat: no-repeat;
     background-color: #FFF;}
 
 .bannerp3 {
-    background-image: url("../imgprojects/mickey.png");
+    background-image: url("../assets/mickey.png");
     background-position: center;
     background-size: 90%  85%;
     background-repeat: no-repeat;
@@ -97,14 +97,14 @@
 
 
 .bannerp4 {
-    background-image: url("../imgprojects/bredalive.png");
+    background-image: url("../assets/bredalive.png");
     background-position: center;
     background-size: 100%  70%;
     background-repeat: no-repeat;
     background-color: #FFF;}
 
 .bannerp5 {
-    background-image: url("../imgprojects/rustig2.png");
+    background-image: url("../assets/rustig2.png");
     background-position: 10px 50px;
     background-size: 95%  70%;
     background-repeat: no-repeat;
@@ -125,7 +125,7 @@
     background-color: #FFF;}
 
 .bannerp8 {
-    background-image: url("../imgprojects/logotenpiesdef.jpg");
+    background-image: url("../assets/logotenpiesdef.jpg");
     background-position: center;
     background-size:60%  60%;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@
     }
 
 .bannerp9 {
-    background-image: url("../imgprojects/rustig.png");
+    background-image: url("../assets/rustig.png");
     background-position: center;
     background-size: 70%;
     background-repeat: no-repeat;
@@ -173,7 +173,7 @@
     }
 
 .bannerp10 {
-    background-image: url("../imgprojects/porsch.png");
+    background-image: url("../assets/porsch.png");
     background-position: center;
     background-size:80%  40%;
     background-repeat: no-repeat;
@@ -197,7 +197,7 @@
 
 
 .bannerp13 {
-    background-image: url("../assets/chance.jpg");
+    background-image: url("../assets/chance.png");
     background-position: center;
     background-size:70%  35%;
     background-repeat: no-repeat;

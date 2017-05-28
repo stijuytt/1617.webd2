@@ -1,0 +1,90 @@
+/* 1. BASE: basisstijlen van de HTML-elementen */
+
+/* Typografie */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+
+.titel {font-family:"Sinhala MN";
+font-weight: bold;}
+
+.subtitel {font-family: "Signpainter";}
+
+.tekst {font-family:"Sinhala MN"}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.keywords {
+    font-family: 'Roboto Slab',;
+    font-size: 40px;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+}
+
+/* Hyperlinks */
+a,
+a:visited {
+    color: #FFF;
+    text-decoration: none;
+}
+a:hover {
+    color:rgb(156, 0, 0);
+    text-decoration: underline;
+}
+
+/* 2. COMPONENTS: onderdelen, worden in de algemene lay-out geplaatst */
+
+/* Knoppen */
+/*button*/
+
+
+/* Kleuren */
+.colours__colour--a {
+    background-color: rgb(  220,  220,  225);
+}
+.colours__colour--b {
+    background-color: rgb( 156, 0, 0)
+}
+.colours__colour--c {
+    background-color: rgb(255,255,255),
+}
+
+.colours__colour--d {
+    background-color: rgb(0,0,0);
+}
+
+
+
+
+/* Kernwoorden */
+.keywords__keyword--a {
+    color: hsl(  0, 100%, 40%);
+    font-size: 3.75rem;
+}
+.keywords__keyword--b {
+    color: hsl(180, 100%, 40%);
+    font-size: 1.5rem;
+}
+.keywords__keyword--c {
+    color: hsl(240, 100%, 40%);
+    font-size: 2.5rem;
+}
+.keywords__keyword--d {
+    color: hsl(300, 100%, 40%);
+    font-size: 3.25rem;
+}
+
+
+.insect { width: 40%;
+height: 50%;
+padding: 35px;}
+
+.ny {position: 140px 110px;
+width: 40%;
+height: 50%;}

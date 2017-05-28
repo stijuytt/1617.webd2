@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 /* grid css */
 
 
@@ -42,7 +43,7 @@
 .bannerp1 {background-image: url("../assets/sieger.jpg");
 background-size: 100%  100%;}
 
-.bannerp2 {background-image: url("../assets/stijn.png");
+.bannerp2 {background-image: url("../assets/stijn.jpg");
 background-size: 100%  100%;}
 
 .bannerp3 {background-image: url("../assets/arne.jpg");
@@ -52,3 +53,6 @@ background-size: 120%  100%;}
 }
 
 .eigenschappen {margin: 5px;}
+
+
+.adc {color: black;}

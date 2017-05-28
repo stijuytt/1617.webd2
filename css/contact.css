@@ -1,3 +1,5 @@
+
+
 .witzijkant { 
     background:#FFF;
     color: #000000;
@@ -8,10 +10,15 @@
     margin-top: 40px;
  }
 
- .mail {text-decoration: none;}
+ .mail {
+ color: black;}
 
-.contacttekst {font-size: 20px;}
+.contacttekst {font-size: 15px;
+padding: 15px;}
 
 .mail:hover {color: rgb(156,0,0);
+}
+
+#map {width:400px;height:400px;
 }
 
